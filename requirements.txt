@@ -3,3 +3,4 @@ flask-cors
 pandas
 scikit-learn
 python-whois
+gunicorn
